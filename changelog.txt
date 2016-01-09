@@ -1,3 +1,11 @@
+Version 3.2
+-Trying to fix mac export
+
+Version 3.1:
+-Fixed collision (somewhat)
+-Fixed level editor (chunks not merging)
+-Added 'm' key to select Ship in TestZone
+
 Version 3.0:
 -Added collision!
 -Finaly started adding stuff to the changelog...
