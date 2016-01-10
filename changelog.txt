@@ -1,3 +1,6 @@
+Version 3.3
+-First attempt at adding Gatling Damage
+
 Version 3.2
 -Trying to fix mac export
 
