@@ -1,4 +1,9 @@
-Version 3.3
+Version 3.5
+-Added 'verifyCollision' in an moderately succesfull atempt at fixing collision
+-Fixed 'Gatlings Border point ghosting effect'
+-Added 'Cons ghosting effect' (oops)
+
+Version 3.4
 -First attempt at adding Gatling Damage
 
 Version 3.2
